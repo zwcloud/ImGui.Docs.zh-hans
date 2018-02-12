@@ -1,2 +1,2 @@
-# ImGui.Docs.zh-hans
-Documentation for Hello ImGui (zh-hans)
+# ImGui-Spec
+The docfx project of ImGui documentation.
