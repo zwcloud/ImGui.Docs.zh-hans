@@ -11,6 +11,7 @@
     最小的抽象渲染单元：线段、矩形、三角形、圆、多边形、折线段、圆弧、二次贝赛尔曲线（bezier-curves）、三次贝塞尔曲线（quadratic-curves）等等。
 * 4层：__基本绘制API（接口）__
     实现：
+    
         I. 以OpenGL为基础、基于路径的渲染API
         II. Cairo
         III. 等等其他图形绘制API
